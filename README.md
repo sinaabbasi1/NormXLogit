@@ -13,7 +13,7 @@
   <a href="./NormXLogit_2025_Poster.pdf"><img alt="Poster" src="https://img.shields.io/badge/​-Poster-A493E7?logo=diagramsdotnet&logoColor=A493E7&style=flat"></a>
   <br/>
   <br/>
-  <img src="./EMNLP2025_main-logo.png" alt="EMNLP 2025 Logo" style="width:13%; height:auto;">
+  <img src="./EMNLP2025_main-logo.png" alt="EMNLP 2025 Logo" style="width:20%; height:auto;">
 </p>
 
 ## Abstract
